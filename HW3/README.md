@@ -1,5 +1,6 @@
 # Assignment 3: System Information Fetching Kernel Module
 
+### 印象中有一些錯誤未修補
 312555008 Hsu Ting-Han
 
 ## File intro:
